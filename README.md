@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Iván Sánchez</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="left">Hi 👋, I'm Iván Sánchez</h1>
+<h3 align="left">A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on **In a Web Application Development cycle**
 
