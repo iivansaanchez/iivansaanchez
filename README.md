@@ -8,8 +8,6 @@
 
 - 🚗 I've driving license, type B. 
 
--
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iivansaanchez&label=Profile%20views&color=0e75b6&style=flat" alt="iivansaanchez" /> </p>
 
