@@ -24,6 +24,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iivansaanchez&theme=black-white"/>
                                                                                                          
-                                                                                                         <p align=left">
   <a href="https://github.com/iivansaanchez"><img src="https://github-readme-stats.vercel.app/api?username=iivansaanchez&hide_border=true&show_icons=true" alt="github stats"></a>
 </p>
