@@ -25,4 +25,4 @@
   <a href="https://github.com/iivansaanchez"><img src="https://github-readme-stats.vercel.app/api?username=iivansaanchez&hide_border=true&show_icons=true" alt="github stats"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iivansaanchez&show_icons=true&locale=en&layout=compact" alt="iivansaanchez" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iivansaanchez&theme=white-green"/>
