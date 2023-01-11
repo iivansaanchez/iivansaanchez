@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iivansaanchez&show_icons=true&locale=en&layout=compact" alt="iivansaanchez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iivansaanchez&show_icons=true&locale=en" alt="iivansaanchez" /></p>
+
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
